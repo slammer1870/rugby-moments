@@ -2,7 +2,7 @@ import React from "react"
 
 const Footer = () => (
   <div className="bg-gray-100">
-    <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
+    <div className="px-8 py-6 mx-auto flex items-center sm:flex-row flex-col">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="58"

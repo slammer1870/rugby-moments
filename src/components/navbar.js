@@ -29,7 +29,7 @@ const Navbar = () => {
     <nav
       className={`${
         scroll ? `bg-gray-600` : `bg-transparent`
-      } flex w-screen justify-between items-center p-6 z-10 fixed lg:px-12`}
+      } flex w-screen justify-between items-center p-6 z-10 fixed lg:px-8`}
     >
       {/*Real logo goes here*/}
       <svg
@@ -131,7 +131,7 @@ const Navbar = () => {
             stroke-width="1"
           />
         </svg>
-        <ul className="my-12 lg:flex lg:items-center lg:justify-between lg:w-full lg:my-0 lg:pr-10">
+        <ul className="my-12 lg:flex lg:items-center lg:justify-between lg:w-full lg:my-0 lg:pr-4">
           <li className="my-4 text-white text-center lg:m-0">ABOUT</li>
           <li className="mb-4 text-white text-center lg:m-0">PRODUCTS</li>
           <li className="p-1 bg-white text-center lg:px-4">SIGN UP</li>
