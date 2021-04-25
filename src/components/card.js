@@ -5,7 +5,7 @@ const Card = ({ data }) => {
   const image = getImage(data.thumbnail)
 
   return (
-    <div className="shadow mr-4 mb-4 lg:w-2/12 transform hover:-translate-y-0.5">
+    <div className="shadow mr-4 mb-4 lg:w-2/12 lg:transform hover:-translate-y-0.5">
       <div className="aspect-w-16 aspect-h-9 h-20 w-36 lg:h40 lg:w-auto">
         <img
           src={data.thumbnail}
