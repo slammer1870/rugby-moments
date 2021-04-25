@@ -33,7 +33,7 @@ const Footer = () => (
         </text>
       </svg>
       <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
-        © 2020 Rugby Moments —
+        © 2021 Rugby Moments —
         <a
           href="#"
           rel="noopener noreferrer"
