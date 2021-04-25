@@ -1,37 +1,37 @@
 {
     "cards": [
         {
-            "thumbnail": "/rugby-moments/static/gavin-henderson.jpeg",
+            "thumbnail": "https://res.cloudinary.com/dofoi7qtr/image/upload/v1619372524/gavin-henderson_ls18ar.jpg",
             "title": "Gavin Henson Penalty",
             "description": "Munster vs. Leinster",
             "year": "2013"
         },
         {
-            "thumbnail": "/images/gordon-darcy.jpeg",
+            "thumbnail": "https://res.cloudinary.com/dofoi7qtr/image/upload/v1619372526/gordon-darcy_y7r08x.jpg",
             "title": "Gordon D'Arcy Try",
             "description": "Ireland vs. France",
             "year": "2017"
         },
         {
-            "thumbnail": "/images/will-carling.jpeg",
+            "thumbnail": "https://res.cloudinary.com/dofoi7qtr/image/upload/v1619372526/will-carling_xgvv09.jpg",
             "title": "Will Carling Try",
             "description": "Ireland vs. England",
             "year": "2007"
         },
         {
-            "thumbnail": "/images/josh-adams.jpeg",
+            "thumbnail": "https://res.cloudinary.com/dofoi7qtr/image/upload/v1619372526/josh-adams_vginhn.jpg",
             "title": "Josh Adams Try",
             "description": "Wales vs. France",
             "year": "2017"
         },
         {
-            "thumbnail": "/images/george-north.jpeg",
+            "thumbnail": "https://res.cloudinary.com/dofoi7qtr/image/upload/v1619372524/george-north_dgyuzf.jpg",
             "title": "George North Tackle",
             "description": "Wales vs. Australia",
             "year": "2013"
         },
         {
-            "thumbnail": "/images/kenki-fukuoka.jpeg",
+            "thumbnail": "https://res.cloudinary.com/dofoi7qtr/image/upload/v1619372524/kenki-fukuoka_wjdquy.jpg",
             "title": "Kenki Fukuoka Try",
             "description": "Japan vs. Scotland",
             "year": "2019"
