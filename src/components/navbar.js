@@ -4,6 +4,8 @@ const Navbar = () => {
   const [scroll, setScroll] = useState()
   const [open, setOpen] = useState()
 
+  const isBrowser = typeof window !== "undefined"
+
   const handleScroll = () => {
     if (window.scrollY >= 10) {
       setScroll(true)
@@ -19,8 +21,9 @@ const Navbar = () => {
       setOpen(false)
     }
   }
-
-  window.addEventListener("scroll", handleScroll)
+  if (isBrowser) {
+    window.addEventListener("scroll", handleScroll)
+  }
 
   return (
     <nav
