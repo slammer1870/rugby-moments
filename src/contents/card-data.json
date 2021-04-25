@@ -1,7 +1,7 @@
 {
     "cards": [
         {
-            "thumbnail": "/images/gavin-henderson.jpeg",
+            "thumbnail": "url('../images/gavin-henderson.jpeg')",
             "title": "Gavin Henson Penalty",
             "description": "Munster vs. Leinster",
             "year": "2013"
