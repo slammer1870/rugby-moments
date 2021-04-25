@@ -132,9 +132,9 @@ const Navbar = () => {
           />
         </svg>
         <ul className="my-12 lg:flex lg:items-center lg:justify-between lg:w-full lg:my-0 lg:pr-4">
-          <li className="my-4 text-white text-center lg:m-0">ABOUT</li>
-          <li className="mb-4 text-white text-center lg:m-0">PRODUCTS</li>
-          <li className="p-1 bg-white text-center lg:px-4">SIGN UP</li>
+          <li className="my-4 text-white text-center lg:m-0 hover:underline">ABOUT</li>
+          <li className="mb-4 text-white text-center lg:m-0 hover:underline">PRODUCTS</li>
+          <li className="p-1 bg-white text-center lg:px-4 hover:underline">SIGN UP</li>
         </ul>
       </div>
     </nav>
